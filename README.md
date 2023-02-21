@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadpaul97&label=Profile%20views&color=0e75b6&style=flat" alt="chadpaul97" /> </p>
 
-- 🔭 I’m currently working on **FreeCodeCamp Responsive WebDesign**
+- 🔭 I’m currently working on **FreeCodeCamp Responsive WebDesign as well as Portfolio Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
