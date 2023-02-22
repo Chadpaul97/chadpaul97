@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chad</h1>
 <h3 align="center">A passionate FullStack Developer who is from Louisiana. Who enjoys the Outdoors,Fitness, and Learning/Creating New things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chadpaul97&label=Profile%20views&color=0e75b6&style=flat" alt="chadpaul97" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chadpaul97&label=Profile%20views&color=0e75b6&style=flat" alt="chadpaul97" /> </p>
 
 - 🔭 I’m currently working on **FreeCodeCamp Responsive WebDesign as well as Portfolio Projects**
 
