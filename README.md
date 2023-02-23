@@ -1,4 +1,4 @@
-    <h1 align="center">Hi 👋, I'm Chad</h1>
+<h1 align="center">Hi 👋, I'm Chad</h1>
 <h3 align="center">A passionate FullStack Developer who is from Louisiana. Who enjoys the Outdoors,Fitness, and Learning/Creating New things.</h3>
 
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=chadpaul97&label=Profile%20views&color=0e75b6&style=flat" alt="chadpaul97" /> </div>
@@ -17,4 +17,4 @@
 <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=chadpaul97&show_icons=true&locale=en" alt="chadpaul97" /></div>
 
 <div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chadpaul97&" alt="chadpaul97" /></div></div>
-<div align="right" ><a  href="https://app.daily.dev/Noobyy"><img src="https://api.daily.dev/devcards/fbbdac5fafd149519098028f190fb09d.png?r=s9m" width="400" alt="Chad Sanchez's Dev Card"/></a></div>
+<div align="right" ><a  href="https://app.daily.dev/Noobyy"><img src="https://api.daily.dev/devcards/fbbdac5fafd149519098028f190fb09d.png?r=s9m" width="300" alt="Chad Sanchez's Dev Card"/></a></div>
