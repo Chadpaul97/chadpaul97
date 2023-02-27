@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chad</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45">, I'm Chad</h1>
 <h3 align="center">A passionate FullStack Developer who is from Louisiana. Who enjoys the Outdoors,Fitness, and Learning/Creating New things.</h3>
 
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=chadpaul97&label=Profile%20views&color=0e75b6&style=flat" alt="chadpaul97" /> </div>
